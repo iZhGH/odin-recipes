@@ -1,2 +1,2 @@
 # odin-recipes
-Website displaying recipes for numerous foods using basic HTML elements.
+Website project for 'The Odin Project' displaying recipes for numerous foods utilizing HTML and CSS. 
