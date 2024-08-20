@@ -1,24 +1,16 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    border-color: black;
-    text-align: center;
+   
 }
 
-span {
-    border-color: black;
-    border-width: 5px;
-
-
+.index-heading {
+    text-align: center;
 }
 
 .home-link {
     color: black;
 }
 
-.index-title {
-    text-align: center;
-   
-}
 
   .recipe-hyperlinks {
     text-align: center;
@@ -30,6 +22,8 @@ span {
     padding: auto;
     margin: 10px;
     text-align: center;
+    border: 5px dotted black;
+
 
 
 }
