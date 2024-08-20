@@ -1,8 +1,35 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
+    border-color: black;
+    text-align: center;
+}
+
+span {
+    border-color: black;
+    border-width: 5px;
+
 
 }
 
 .home-link {
     color: black;
+}
+
+.index-title {
+    text-align: center;
+   
+}
+
+  .recipe-hyperlinks {
+    text-align: center;
+    
+}  
+
+.recipe-link {
+    display: inline;
+    padding: auto;
+    margin: 10px;
+    text-align: center;
+
+
 }
